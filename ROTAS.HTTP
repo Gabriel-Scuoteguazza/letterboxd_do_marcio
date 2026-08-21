@@ -5,10 +5,10 @@ POST http://localhost:3955/adicionar-filme
 Content-Type: application/json
 
 {
-    "nomeDoFilme": "Cães de Aluguel",
-    "genero": " Thriller/Crime",
-    "duracao": "139",
-    "classificacao": "18"
+    "nomeDoFilme": "Assassinos da Lua das Flores",
+    "genero": "Faroeste/Thriller",
+    "duracao": "326",
+    "classificacao": "16 anos"
 }
 
 
